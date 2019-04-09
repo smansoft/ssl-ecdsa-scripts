@@ -3,7 +3,7 @@ SSL ECDSA scripts
 
 SSL ECDSA scripts is a suite of scripts for generation X.509 keys/certificates.
 
-SSL ECDSA scripts ® Copyright © 2018-2019 by SManSoft (http://smansoft.com).
+SSL ECDSA scripts ® Copyright © 2018-2019 by SManSoft http://www.smansoft.com.
 
 Overview
 --------
