@@ -1,0 +1,21 @@
+ RANDFILE               = $ENV::HOME/.rnd
+
+ [ req ]
+ default_bits           = 2048
+ default_keyfile        = cln.ca-key.pem
+ distinguished_name     = req_distinguished_name
+ attributes             = req_attributes
+ prompt                 = no
+ output_password        = SManSoft
+
+ [ req_distinguished_name ]
+ C                      = UA
+ ST                     = Kharkov
+ L                      = Kharkov
+ O                      = SManSoft
+ OU                     = SManSoft.FileExchanger
+ CN                     = SManSoft.FileExchanger.CA
+ emailAddress           = smansoft@gmail.com
+
+ [ req_attributes ]
+ challengePassword      = A challenge password
