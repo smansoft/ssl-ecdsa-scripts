@@ -35,4 +35,5 @@ Usage
 			fe/out.fe.smansoft.com.cln.tar
 			fe/out.fe.smansoft.com.srv.tar 
 
-Please, send your notes and questions to info@smansoft.com.
+Please this post: http://blog.smansoft.com/2019/04/07/ssl-ecdsa-scripts/ for more info and
+send your notes and questions to info@smansoft.com.
